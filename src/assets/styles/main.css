@@ -1,0 +1,39 @@
+.border {
+  border: 0.25px solid #fff !important;
+}
+
+.border-top {
+  border-top: 0.25px solid #fff !important;
+}
+
+.border-right {
+  border-right: 0.25px solid #fff !important;
+}
+
+.border-bottom {
+  border-bottom: 0.25px solid #fff !important;
+}
+
+.border-left {
+  border-left: 0.25px solid #fff !important;
+}
+
+.border-x {
+  border-left: 0.25px solid #fff !important;
+  border-right: 0.25px solid #fff !important;
+}
+
+.border-y {
+  border-top: 0.25px solid #fff !important;
+  border-bottom: 0.25px solid #fff !important;
+}
+
+.white-btn {
+  background-color: transparent;
+  color: #fff;
+  transition: all 0.2s ease;
+}
+.white-btn:hover {
+  background-color: #fff;
+  color: #000;
+}/*# sourceMappingURL=main.css.map */
